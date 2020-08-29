@@ -9,6 +9,7 @@
         </div>
       </transition-group>
     </draggable>
+    
     <p>
       <strong>PreviousIndex:</strong>
       {{oldIndex}}
