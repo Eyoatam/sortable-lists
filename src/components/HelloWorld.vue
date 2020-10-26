@@ -59,7 +59,7 @@ export default {
 <style scoped lang="scss">
 h1,
 p {
-  color: #f8f9fa;
+  color: #fff;
 }
 h3 {
   margin: 40px 0 0;
