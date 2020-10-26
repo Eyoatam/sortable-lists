@@ -23,7 +23,7 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #f8f9fa;
+  color: #fff;
   padding: 4em;
 }
 </style>
